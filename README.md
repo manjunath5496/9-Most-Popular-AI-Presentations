@@ -99,6 +99,29 @@ Alternative structures for character-level RNNs</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(37).pdf" style="text-decoration:none;">The Singularity: A Philosophical Analysis</a></li>
  <li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(38).pdf" style="text-decoration:none;">SingularityNET:
 A decentralized, open market and inter-network for AIs</a></li>
+
+
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(39).pdf" style="text-decoration:none;">Modeling yield response to crop management using convolutional neural networks</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(40).pdf" style="text-decoration:none;">Gradient-based Hyperparameter Optimization through Reversible Learning</a></li>                              
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(41).pdf" style="text-decoration:none;">Learning to reinforcement learn</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(42).pdf" style="text-decoration:none;">Attention Is All You Need</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(43).pdf" style="text-decoration:none;">RILOD: Near Real-Time Incremental Learning for Object Detection at the Edge</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(44).pdf" style="text-decoration:none;">Tackling Climate Change with Machine Learning</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(45).pdf" style="text-decoration:none;">Emergent Tool Use From Multi-Agent Autocurricula</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(46).pdf" style="text-decoration:none;">On the Measure of Intelligence</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(47).pdf" style="text-decoration:none;">The
+Next Decade in AI: Four Steps Towards Robust Artificial Intelligence</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(48).pdf" style="text-decoration:none;">The Netflix Recommender System: Algorithms, Business Value, and Innovation</a></li>
+
+
+
+
+
+
+
 </ul>
  
  
