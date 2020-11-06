@@ -117,7 +117,23 @@ Next Decade in AI: Four Steps Towards Robust Artificial Intelligence</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(48).pdf" style="text-decoration:none;">The Netflix Recommender System: Algorithms, Business Value, and Innovation</a></li>
 
 
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(49).pdf" style="text-decoration:none;">Enabling Efficient and Flexible FPGA Virtualization for Deep Learning in the Cloud</a></li>
+ 
+  <li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(50).pdf" style="text-decoration:none;">Cycle Text-to-Image GAN with BERT</a></li>
+ <li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(51).pdf" style="text-decoration:none;">Shouts and Murmurs: Combining Individual Gravitational-Wave Sources with the Stochastic Background to Measure the History of Binary Black Hole Mergers</a></li>
+   <li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(52).pdf" style="text-decoration:none;">Zero-shot and few-shot time series forecasting with ordinal regression recurrent neural networks</a></li>  
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(53).pdf" style="text-decoration:none;">Log-Likelihood Ratio Minimizing Flows: Towards Robust and Quantifiable Neural Distribution Alignment</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(54).pdf" style="text-decoration:none;">AirRL: A
+Reinforcement Learning Approach to Urban Air Quality Inference</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(55).pdf" style="text-decoration:none;">Improving Reproducibility in Machine Learning Research (A Report from the NeurIPS 2019 Reproducibility Program)</a></li>
 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(56).pdf" style="text-decoration:none;">MiLeNAS: Efficient Neural Architecture Search via Mixed-Level Reformulation</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(57).pdf" style="text-decoration:none;">Identification of Choquet capacity in multicriteria sorting problems through stochastic inverse analysis</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(58).pdf" style="text-decoration:none;">Dynamical Dark sectors and Neutrino masses and abundances</a></li>
 
 
 
