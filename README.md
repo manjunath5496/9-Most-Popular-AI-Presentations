@@ -135,7 +135,19 @@ Reinforcement Learning Approach to Urban Air Quality Inference</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(57).pdf" style="text-decoration:none;">Identification of Choquet capacity in multicriteria sorting problems through stochastic inverse analysis</a></li>
 <li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(58).pdf" style="text-decoration:none;">Dynamical Dark sectors and Neutrino masses and abundances</a></li>
 
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(59).pdf" style="text-decoration:none;">A Decision-Theoretic Generalization of On-Line Learning and an Application to Boosting</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(60).pdf" style="text-decoration:none;">Incorporating Nesterov Momentum into Adam</a></li>
 
+   
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(61).pdf" style="text-decoration:none;">Perceptual Losses for Real-Time Style Transfer and Super-Resolution</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(62).pdf" style="text-decoration:none;">Dynamic Routing Between Capsules</a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(63).pdf" style="text-decoration:none;">Spectral Normalization for Generative Adversarial Networks</a></li>
+
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(64).pdf" style="text-decoration:none;">Relational inductive biases, deep learning, and graph networks</a></li> 
+                             
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(65).pdf" style="text-decoration:none;">Deep Double Descent: Where Bigger Models and More Data Hurt </a></li>
+<li><a target="_blank" href="https://github.com/manjunath5496/9-Most-Popular-AI-Presentations/blob/master/yy(66).pdf" style="text-decoration:none;">Training BatchNorm and Only BatchNorm: On the Expressivity of Random Features in CNNs</a></li>
 
 
 </ul>
